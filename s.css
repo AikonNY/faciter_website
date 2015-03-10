@@ -13,16 +13,17 @@ h1 {
   font-size: 4.6em;
   line-height: 0.8em;
   font-family: 'Kaushan Script', cursive;
-  text-shadow: 0 4px 0 #fff;
-  color: #181818;
+  text-shadow: 0 5px 0 #E0DDD5;
+  /*color: #181818;*/
+  color: #3B3831;
 }
 
 .rotate {
   font-size: 1.8em;
   width: 100%;
   text-align: center;
-  color: #000;
-  text-shadow: 1px 1px 0 #fff;
+  color: #29251B;
+  text-shadow: 1px 1px 0 #FAF6ED;
 }
 
 .center {
