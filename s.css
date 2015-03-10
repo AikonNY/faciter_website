@@ -9,13 +9,21 @@ body {
   font-family: 'Muli', sans-serif;
 }
 
+a { text-decoration: none; }
 h1 {
   font-size: 4.6em;
   line-height: 0.8em;
   font-family: 'Kaushan Script', cursive;
   text-shadow: 0 5px 0 #E0DDD5;
-  /*color: #181818;*/
   color: #3B3831;
+  -webkit-transition: 0.1s; /* Safari */
+  transition: 0.1s;
+}
+h1:hover {
+  color: #F7DA59;
+  margin-top: 46px;
+  padding-bottom: 3px;
+  text-shadow: 0 3px 0 #7D745C;
 }
 
 .rotate {
